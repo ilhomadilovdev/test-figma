@@ -1,0 +1,125 @@
+import call from "@/images/Call.png"
+import call2 from "@/images/Call2.png"
+import call3 from "@/images/Call3.png"
+import call4 from "@/images/rf.png"
+import cal5 from "@/images/First screen.svg"
+import photo from "@/images/Photo.png"
+import img from "@/images/Images.png"
+import text from "@/images/Checkmark.png"
+import text2 from "@/images/Image.png"
+import text3 from "@/images/Image (1).png"
+import text4 from "@/images/Image (2).png"
+import text5 from "@/images/Image (3).png"
+import build from "@/images/Buildg.png"
+import build2 from "@/images/Buildin.png"
+import build3 from "@/images/Building.png"
+import arr from "@/images/Arrow.png"
+import arr2 from "@/images/Arrow1.png"
+import photo2 from "@/images/Photo.svg"
+import rest from "@/images/Rectangl24.png"
+import ret from "@/images/Rectangle 24.png"
+import ff from "@/images/solar_eye-line-duotone.png"
+import media from "@/images/Social media.png"
+import screen from "@/images/First scree.svg"
+import ing from "@/images/Ima.png"
+import map from "@/images/Map.png"
+import buildd from "@/images/Building.svg"
+import buildd3 from "@/images/Buig.png"
+import gg from "@/images/Buia.png"
+import hh from "@/images/g.png"
+import jj from "@/images/ding.png"
+import number from "@/images/Step num.png"
+import number2 from "@/images/Step numb.png"
+import number3 from "@/images/Step numbe.png"
+import number4 from "@/images/Step number.png"
+import restangle from "@/images/Rectangle 53.png"
+import restang from "@/images/Rectangle 54.svg"
+import cards from "@/images/Cards.svg"
+import ffg from "@/images/999.png"
+import iding from "@/images/lding.png"
+import ggh from "@/images/Buil8ing.png"
+import gch from "@/images/Build9ng.png"
+import sohil from "@/images/Bui54ng.png"
+import jjk from "@/images/Buia.png"
+import obj from "@/images/Object.png"
+import obj2 from "@/images/Oct.png"
+import obj3 from "@/images/ct.png"
+import obj4 from "@/images/Oject.png"
+import obj5 from "@/images/Obj1ect.png"
+import obj6 from "@/images/Ob2ject.png"
+import obj7 from "@/images/Obje3ct.png"
+import obj8 from "@/images/Obje4ct.png"
+import stt from "@/images/News card.svg"
+import csrf from "@/images/News card.png"
+import crf from "@/images/Necard.png"
+import catr from "@/images/News.png"
+import catur from "@/images/Ntexts.png"
+import cfg from "@/images/Nes.png"
+import tty from "@/images/ws.png"
+import ttyx from "@/images/iis.png"
+import uuu from "@/images/99ws.png"
+import uulu from "@/images/44ws.png"
+import uul from "@/images//22ews.png"
+import  ttf from "@/images/33ws.png" 
+import kkk from "@/images/N11s.png"
+import line from "@/images/-line-duotone.png"
+import cardsf from "@/images/s card.svg"
+import rt from "@/images/Rectangle 59.png"
+import medi from "@/images/Social medias.png"
+import scree from "@/images/First screen.png"
+import red from "@/images/Re 54.png"
+import sbg from "@/images/Rectangle 54.svg"
+import cart from "@/images/Card.png"
+import carts from "@/images/Card (1).png"
+import cartls from "@/images/Card (2).png"
+import rfg from "@/images/Rectangle 5.png"
+import ggjj from "@/images/Review card.png"
+import bui from "@/images/Bui7g.png"
+
+
+import kky from "@/images/Rectangle 56.png"
+import ky from "@/images/Rectangle 55.png"
+import kyi from "@/images/Rectangle 58.png"
+import yi from "@/images/Rectangle 59.png"
+import yit from "@/images/Rectangle 60.png"
+import mmn from "@/images/First sc.svg"
+import xxx from "@/images/ngle 59.png"
+
+
+import www from "@/images/555.png"
+import wwwe from "@/images/666.png"
+import wwwh from "@/images/888.png"
+
+import df from "@/images/Cd (1).png"
+import dfr from "@/images/Ca (2).png"
+import fg from "@/images/Car.png"
+
+import ddss from "@/images/Image.svg"
+
+import avant from "@/images/Avantage.png"
+import avan from "@/images/Avantage (1).png"
+import ava from "@/images/Avantage (2).png"
+
+import sssd from "@/images/5.png"
+import ffh from "@/images/6.png"
+import yyu from "@/images/7.png"
+
+import cau from "@/images/Cau.png"
+
+
+import bhg from "@/images/iconamoon_clock-light.png"
+import hgf from "@/images/solar_document-text-outline.png"
+import btnh from "@/images/lucide_settings-2.png"
+export {
+    call, call2, call3, call4, cal5, photo, img, text,
+    text2, text3, text4, text5,build,build2,
+    build3,arr,arr2,photo2,
+    rest,ret,ff,media,screen,ing,map,buildd,buildd3,hh,jj,gg,
+    number,number2,number3,number4,restangle,restang,cards,
+    ffg,ggh,gch,sohil,jjk,iding,obj,obj2,obj3,obj4,obj5,obj6,obj7,obj8,
+    stt,csrf,crf,catr,catur,cfg,tty,ttyx,uuu,uulu,uul
+    ,ttf,kkk,line,cardsf,rt,medi,scree,red,sbg,cart,carts,cartls,rfg,ggjj,
+    bui,kky,ky,kyi,yi,yit,mmn,xxx,www,wwwe,wwwh,df,dfr,fg,ddss,avant,avan,
+    ava,cau,sssd,ffh,yyu,bhg,hgf,btnh
+
+}
